@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+.page-exercicio{
+        
+    
+    .container-exercicio{
+        display: flex;
+        flex-direction: column;
+        width: 476px;
+        height: auto;
+        background-color: #f6f6f6;
+        margin-top: 25px;
+        margin-left: 482px;
+        border-radius: 12px;
+
+        h1{
+            font: 700 18px 'Roboto';
+            margin-left: 25px;
+            margin-top: 23px;
+            line-height: 50px;
+        }
+    
+    
+    
+        input{
+            width: 414px;
+            height: 35px;
+            background-color:  #f6f6f6;
+            border: 1px solid #A5A5A5;
+            margin-left: 24px;
+            border-radius: 12px;
+        }
+        
+        h1{
+            font: 700 18px 'Roboto';
+            margin-left: 25px;
+            line-height: 50px;
+        }
+        
+        button{
+            width: 216px;
+            height: 50px;
+            border: 1px solid #A5A5A5;
+            border-radius: 12px;
+            background-color: #001affad;
+            color: #f6f6f6;
+            font: 400 15px 'Roboto';
+            margin: 20px 222px
+        }
+    }
+    
+    .resultado{
+
+        p {
+            margin-top: 10px;
+            margin-left: 765px;
+            font: 400 16px "Roboto"
+        }
+    }
+}
+
+

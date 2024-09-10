@@ -1,0 +1,53 @@
+.exercicio{
+    display: flex;
+    margin: 50px 60px;
+    
+    img{
+        width: 35px;
+    }
+
+    h1{
+        margin: 0px 25px 0px;
+        font-size: 26px;
+    }
+}
+
+.barra{
+    width: 1280px;
+    height: 4px;
+    margin-top: -35px;
+    margin-left: 61px;
+    border-radius: 12px;
+
+}
+
+.amarelo{
+    background-color: #f1ba23d8;
+}
+
+.verde-claro{
+    background-color: #B3FF37;
+}
+
+.azul-claro{
+    background-color: #37FFF3;
+}
+
+.enunciado{
+    display: flex;
+    width: 1280px;
+    height: 213px;
+    margin-top: 35px;
+    margin-left: 61px;
+    border-radius: 12px;
+    background-color: #f6f6f6;
+
+    h3{
+        font-size: 16px;
+        text-align: center;
+        margin-top: 70px;
+        margin-left: 16px;
+        margin-right: 16px;
+        font: 400 16px Roboto;
+    }
+}

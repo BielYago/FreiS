@@ -1,0 +1,40 @@
+.cabecalho{
+    display: flex;
+    background-color: #001affad;
+    line-height: 25px;
+  
+    .logo {
+        width: 50px;
+        height: 55px;
+        margin: 10px 20px 0px 50px;
+    }
+    
+    .h1-cabecalho{
+        color: #f6f6f6;
+        font-size: 18px;
+        margin: 25px 0px;
+    }
+    
+    .app-inicio{
+        color: #f6f6f6;
+        margin-left: 1025px;
+        margin-top: 25px;
+        font: 300 16px Roboto;
+    }
+    
+    .link-app-inicio{
+        text-decoration: none;
+    }
+    
+    .link-app-sobre{
+        text-decoration: none;
+    }
+    
+    .app-sobre{
+        color: #f6f6f6;
+        margin-top: 25px;
+        margin-left: 20px;
+        font: 300 16px Roboto;
+    }
+
+}
